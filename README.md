@@ -8,6 +8,7 @@
 
 ## Problem Statement
 To accurately predict the stock levels of products based on sales data and sensor data on an hourly basis in order to more intelligently procure products from the client's suppliers
+
 --- 
 ## Data Sources
 The sources of the datasets used in this analysis are provided by the client:
